@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+sqlalchemy
+databases
+asyncpg
+psycopg2
+bcrypt
+python-jose
+python-dotenv
+pyJWT
